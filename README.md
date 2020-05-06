@@ -5,7 +5,7 @@ Welcome to my Github Repository. Here you can find a few projects that I have ha
 
 Maze Navigating Robot: https://3400-17.github.io/Prime/
 
-SLAM: https://www.youtube.com/watch?v=psJ8Um8ehUk&t=7s
+SLAM: https://www.youtube.com/watch?v=psJ8Um8ehUk
 
 Music Recommender System: http://www.nickh.me/
 
