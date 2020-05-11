@@ -10,3 +10,5 @@ SLAM: https://www.youtube.com/watch?v=psJ8Um8ehUk
 Music Recommender System: http://www.nickh.me/
 
 Fantasy Premier League Model: https://as3947.wixsite.com/bounce
+
+Machine Learning Music: https://www.youtube.com/watch?v=mAckKbwgYq4
