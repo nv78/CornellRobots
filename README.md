@@ -7,7 +7,7 @@ Maze Navigating Robot: https://3400-17.github.io/Prime/
 
 SLAM: https://www.youtube.com/watch?v=psJ8Um8ehUk
 
-Music Recommender System: http://www.nickh.me/
+Music Recommender System: http://songrecs.com
 
 Fantasy Premier League Model: https://as3947.wixsite.com/bounce
 
