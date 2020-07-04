@@ -14,3 +14,5 @@ Fantasy Premier League Model: https://as3947.wixsite.com/bounce
 Machine Learning Music: https://www.youtube.com/watch?v=mAckKbwgYq4
 
 Home Service Challenge: https://www.youtube.com/watch?v=IeaDUaODF-U&feature=youtu.be
+
+DQN For Simple Navigation: https://www.youtube.com/watch?v=zZHPMyYdOnw
