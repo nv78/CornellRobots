@@ -16,3 +16,5 @@ Machine Learning Music: https://www.youtube.com/watch?v=mAckKbwgYq4
 Home Service Challenge: https://www.youtube.com/watch?v=IeaDUaODF-U&feature=youtu.be
 
 DQN For Simple Navigation: https://www.youtube.com/watch?v=zZHPMyYdOnw
+
+DQN For Obstacle Avoidance: https://www.youtube.com/watch?v=wkSIcBz1DW0&feature=youtu.be
