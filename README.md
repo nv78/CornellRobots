@@ -1,7 +1,7 @@
 # Welcome
 
 Hi Guys, 
-Welcome to my Github Repository. Here you can find a few projects that I have had the chance to work on throughout my time at Cornell. Feel free to reach out to me at nv78@cornell.edu with any questions!
+Welcome to Natan Vidra's Github Repository. Here you can find a few projects that I have had the chance to work on throughout my time at Cornell. Feel free to reach out to me at nv78@cornell.edu with any questions!
 
 A Trash Picking Robot: https://www.youtube.com/watch?v=2ZQ6K4d6SNc
 
@@ -12,8 +12,6 @@ SLAM: https://www.youtube.com/watch?v=psJ8Um8ehUk
 DQN For Simple Navigation: https://www.youtube.com/watch?v=zZHPMyYdOnw
 
 DQN For Obstacle Avoidance: https://www.youtube.com/watch?v=wkSIcBz1DW0&feature=youtu.be
-
-Music Recommender System: http://songrecs.com
 
 Fantasy Premier League Model: https://as3947.wixsite.com/bounce
 
