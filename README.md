@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to Natan Vidra's Github Repository. Here you can find a few URL's to projects that I have had the chance to work on throughout my time at Cornell. 
+Welcome to Natan Vidra's Github Repository. Here you can find a few URL's to projects that I worked on throughout my time at Cornell. 
 
 A Trash Picking Robot: https://www.youtube.com/watch?v=2ZQ6K4d6SNc
 
