@@ -1,4 +1,4 @@
-# Welcome
+# Cornell Robots
 
 Welcome to Natan Vidra's Github Repository. Here you can find a few URL's to projects that I worked on throughout my time at Cornell. 
 
@@ -11,7 +11,3 @@ Welcome to Natan Vidra's Github Repository. Here you can find a few URL's to pro
 [DQN For Simple Navigation](https://www.youtube.com/watch?v=zZHPMyYdOnw)
 
 [DQN For Obstacle Avoidance](https://www.youtube.com/watch?v=wkSIcBz1DW0&feature=youtu.be)
-
-[Fantasy Premier League Model](https://as3947.wixsite.com/bounce)
-
-[Machine Learning Music](https://www.youtube.com/watch?v=mAckKbwgYq4)
